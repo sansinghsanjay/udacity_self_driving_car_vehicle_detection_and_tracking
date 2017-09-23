@@ -85,8 +85,6 @@ Following are the sample images:
 4. Apply 10-fold stratified cross validation on above generated features by using RandomForest and SVM model. Following are the results:
 <p align="center">
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_vehicle_detection_and_tracking/blob/master/plots/svm_rf_accuracy_comparison.png">
-&nbsp &nbsp
-&nbsp &nbsp
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_vehicle_detection_and_tracking/blob/master/plots/svm_rf_kappa_comparison.png">
 </p>
 5. Finally, RandomForest and SVM are trained on entire train data.
