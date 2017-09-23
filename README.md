@@ -58,8 +58,6 @@ Following are the sample images:
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_vehicle_detection_and_tracking/blob/master/sample_data/vehicle/image0067.png">
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_vehicle_detection_and_tracking/blob/master/sample_data/vehicle/image0194.png">
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_vehicle_detection_and_tracking/blob/master/sample_data/vehicle/image0214.png">
-</p>
-<p align="center">
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_vehicle_detection_and_tracking/blob/master/sample_data/vehicle/image0305.png">
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_vehicle_detection_and_tracking/blob/master/sample_data/vehicle/image0750.png">
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_vehicle_detection_and_tracking/blob/master/sample_data/vehicle/image0843.png">
@@ -73,8 +71,6 @@ Following are the sample images:
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_vehicle_detection_and_tracking/blob/master/sample_data/non_vehicle/extra2476.png">
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_vehicle_detection_and_tracking/blob/master/sample_data/non_vehicle/extra26.png">
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_vehicle_detection_and_tracking/blob/master/sample_data/non_vehicle/extra423.png">
-</p>
-<p align="center">
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_vehicle_detection_and_tracking/blob/master/sample_data/non_vehicle/extra5227.png">
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_vehicle_detection_and_tracking/blob/master/sample_data/non_vehicle/extra819.png">
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_vehicle_detection_and_tracking/blob/master/sample_data/non_vehicle/image216.png">
