@@ -9,7 +9,7 @@
 </p>
 
 ## Objective
-The objective of this project is to identify cars and track them in a video fram front facing camera of a Self Driving Car.
+The objective of this project is to identify cars and track them in a video recorded from a front facing camera of a Self Driving Car.
 
 Above GIF images are showing sample input (at left side) and sample output (at right side) of this project, obtained by using different Machine Learning methods in Python.
 
