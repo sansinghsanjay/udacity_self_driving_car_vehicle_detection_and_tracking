@@ -42,8 +42,7 @@ In this project, Python-2.7.12 is used with following packages:
 3. cv2 - 3.0.0 (Computer Vision)
 4. pandas - 0.19.0
 5. sklearn - 0.18.1
-6. tensorflow - 1.2.1
-7. keras - 2.0.6
+6. keras - 2.0.6
 
 # Data Set Used
 Data set is provided by Udacity. This data set is divided into two classes:
